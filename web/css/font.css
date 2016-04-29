@@ -1,0 +1,7 @@
+@font-face {
+    font-family: FontIsocpeur;
+    src: url(isocpeur.woff);
+}
+h5 {
+    font-family: FontIsocpeur;
+}
